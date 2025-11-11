@@ -1,0 +1,8 @@
+shiny
+plotly
+DT
+httr
+jsonlite
+dplyr
+DBI
+RPostgres
